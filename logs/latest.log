@@ -1,0 +1,37 @@
+[16:37:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:37:28] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:37:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:37:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:37:28] [main/INFO]: Reloading ResourceManager: Default
+[16:37:29] [Worker-Main-12/INFO]: Loaded 7 recipes
+[16:37:29] [Worker-Main-12/INFO]: Loaded 927 advancements
+[16:37:29] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:37:29] [Server thread/INFO]: Loading properties
+[16:37:29] [Server thread/INFO]: Default game type: SURVIVAL
+[16:37:29] [Server thread/INFO]: Generating keypair
+[16:37:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:37:30] [Server thread/INFO]: Using default channel type
+[16:37:30] [Server thread/INFO]: Preparing level "world"
+[16:37:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 0%
+[16:37:31] [Server thread/INFO]: Preparing spawn area: 61%
+[16:37:31] [Server thread/INFO]: Time elapsed: 1051 ms
+[16:37:31] [Server thread/INFO]: Done (1.110s)! For help, type "help"
+[16:39:57] [User Authenticator #1/INFO]: UUID of player Darth_Kylokun is c9c4501e-69e9-47c5-b4e1-b7ab5f31f130
+[16:39:57] [Server thread/INFO]: Darth_Kylokun[/127.0.0.1:52284] logged in with entity id 123 at (546.0749999880791, 64.0, -556.7800212974734)
+[16:39:57] [Server thread/INFO]: Darth_Kylokun joined the game
+[16:45:38] [Server thread/INFO]: Darth_Kylokun was shot by Skeleton
+[16:57:47] [Server thread/INFO]: [Darth_Kylokun: Set own game mode to Creative Mode]
+[16:57:53] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2210, l='ServerLevel[world]', x=547.80, y=64.00, z=-557.31]
+[17:24:56] [Server thread/INFO]: [Darth_Kylokun: Set the time to 1000]
+[17:25:10] [Server thread/INFO]: [Darth_Kylokun: Set own game mode to Survival Mode]
+[17:35:32] [Server thread/INFO]: Darth_Kylokun was slain by Enderman
+[17:36:54] [Server thread/INFO]: Darth_Kylokun has made the advancement [Take Aim]
+[17:38:13] [Server thread/INFO]: Darth_Kylokun was shot by Skeleton
+[17:39:00] [Server thread/INFO]: Darth_Kylokun was shot by Skeleton
+[17:40:07] [Server thread/INFO]: Darth_Kylokun was shot by Skeleton
+[17:49:25] [Server thread/INFO]: Darth_Kylokun lost connection: Disconnected
+[17:49:25] [Server thread/INFO]: Darth_Kylokun left the game
